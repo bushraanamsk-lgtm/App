@@ -1,0 +1,17 @@
+https://placeholder.com<?xml version="1.0" encoding="UTF-8"?>
+<homepage>
+    <header>
+        <title>Welcome to Our Website</title>
+        <tagline>Your success starts here</tagline>
+    </header>
+    <sections>
+        <section id="hero">
+            <heading>Discover Our New Products</heading>
+            <button_text>Shop Now</button_text>
+        </section>
+        <section id="features">
+            <feature>Fast Performance</feature>
+            <feature>24/7 Support</feature>
+        </section>
+    </sections>
+</homepage>
